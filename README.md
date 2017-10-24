@@ -1,1 +1,2 @@
 # tech-note
+view wiki
