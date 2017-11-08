@@ -1,2 +1,2 @@
-# tech-note
+# dev-docs
 view wiki
